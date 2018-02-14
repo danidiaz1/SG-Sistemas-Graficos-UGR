@@ -1,0 +1,13 @@
+Desbloquear los controles haciendo click dentro de la ventana del navegador.
+El puntero del ratón se quedará bloqueado y se podrá interactuar.
+
+INTERACCIÓN
+- W,A,S,D: Movimiento
+- Espacio: Saltar
+- C: Agacharse
+- Shift: Correr
+- Click izquierdo: Disparar
+- Esc: Desbloquear el puntero del ratón
+- Ratón: Mover la cámara
+
+En la ventana de control puede cambiarse el tipo de mirilla.
