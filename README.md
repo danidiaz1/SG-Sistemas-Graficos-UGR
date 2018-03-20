@@ -6,7 +6,8 @@ Prácticas de Sistemas Gráficos (SG), Grado en Ingeniería Informática, UGR 20
 
 ## Práctica 3 (Javascript)
 
-[Demostración en vivo](https://byob1r.000webhostapp.com/SG/P3).
+[Demostración en vivo](https://byob1r.000webhostapp.com/SG/P3). 
+(desactivar Adblock)
 
 ![alt text](https://github.com/danidiaz1/SG-Sistemas-Graficos-UGR/blob/master/P3/imgs/muestra.png "Práctica 3")
 
